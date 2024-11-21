@@ -1,0 +1,20 @@
+on:
+  pull_request_target:
+
+jobs:
+  pr:
+    runs-on: ubuntu-latest
+    permissions:
+      pull-requests: write
+    steps:
+      - uses: mshick/add-pr-comment@v2
+        if: always()
+        with:
+          message: |
+        
+            **You must join the community groups to send the submitted PR to be merged within a week, otherwise the reward will be forfeited**
+            - Discord: [Aqua Move Discord](https://discord.gg/aquamovedao)
+            - Telegram: [Aqua Move Telegram](https://t.me/aquamovedao)
+
+          message-failure: |
+            Uh oh!
