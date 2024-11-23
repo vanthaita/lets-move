@@ -3,26 +3,26 @@
 ## Community Groups
 
 **You must join the community groups and send a submitted PR (Pull Request) to be merged within a week, otherwise the reward will be forfeited**
-- [Aqua Move Discord](https://discord.gg/aquamovedao)
-- [Aqua Move Telegram](https://t.me/aquamovedao)
+- [Aqua Move Discord](https://discord.gg/aquamovedao) (Required)
+- [Aqua Move Telegram](https://t.me/aquamovedao) (Optional)
 
 ## How To Participate
 **You must join the community groups and send a submitted PR (Pull Request) to be merged within a week, otherwise the reward will be forfeited**
 
-1. Copy the `movers/001` and rename the copied the directory using your `GitHub ID`
-2. Fill out your personal information in the `README.md` file within your renamed folder. Ignore the task templates for now.
-3. Update the task list in the `README.md` file inside your folder with the tasks you've completed.
+1. Copy the `mover/001` and rename the copied directory using your `GitHub ID`. Now you should have a directory named `mover/your-github-id`.
+2. Fill out your personal information in `mover/your-github-id/README.md`.
+3. Update the task list in `mover/your-github-id/README.md` with the tasks you've completed.
 4. Submit a PR (Pull Request):
     - Submit task 1 first to register your wallet address, name the PR as `complete task 1`.
     - If you've completed multiple tasks, name it as `complete task 1 2 3`, etc.
 
-Once the tasks are reviewed and approved, the reward will be distributed to your Sui wallet address provided in your `README.md` file towards the end of the bootcamp.
+Once the tasks are reviewed and approved, the reward will be distributed to your Sui wallet address provided in your `mover/your-github-id/README.md` file towards the end of the bootcamp.
 
 ## Important Reminders
 **You must join the community groups and send a submitted PR (Pull Request) to be merged within a week, otherwise the reward will be forfeited**
 
 **Requirements**:
-1. **Include the source code** for your submission in the `code` folder. Example: `code/task1`, etc.
+1. **Include the source code** for your submission in the `code` folder. Example: `mover/your-github-id/code/task1`, etc.
 2. **Task 1**: Must include your `GitHub ID`, i.e., "hello `GitHub ID`".
 3. **Task 2**: The Coin name must start with your `GitHub ID`. The faucet's Coin should be named "`GitHub ID` + `Faucet`".
 4. **Task 3**: The NFT must use your GitHub avatar as the image.

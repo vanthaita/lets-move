@@ -1,6 +1,6 @@
 # Use Sui SDK
 
-- Onchain network: Sui Mainnet
+- Onchain network: Sui Testnet
 
 ## Requirements:
 - Complete the study of `dapp-kit`.

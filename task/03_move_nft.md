@@ -1,6 +1,6 @@
 # Complete Deployment of NFT Contract
 
-- Onchain network: Sui Mainnet
+- Onchain network: Sui Testnet
 
 ## Requirements
 - Complete the study of NFT-related concepts.

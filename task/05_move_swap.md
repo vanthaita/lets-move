@@ -1,6 +1,6 @@
 # Implement a Simple Swap
 
-- Onchain network: Sui Mainnet
+- Onchain network: Sui Testnet
 
 ## Requirements
 

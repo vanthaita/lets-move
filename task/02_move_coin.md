@@ -1,6 +1,6 @@
 # Complete Deployment of Two Coin Contracts
 
-- Onchain network: Sui Mainnet
+- Onchain network: Sui Testnet
 
 ## Requirements
 

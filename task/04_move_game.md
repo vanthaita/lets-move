@@ -1,6 +1,6 @@
 # Complete Deployment of Onchain Game
 
-- Onchain network: Sui Mainnet
+- Onchain network: Sui Testnet
 
 ## Requirements
 
